@@ -1,0 +1,13 @@
+This section is about audio. All types of audio circuits are combined as often a circuit includes more than one firld. Included are:
+
+Consumer Audio
+Professional Audio
+Stage Electronics
+PA systems
+Audiophile electronics
+etc. 
+
+Note that files that say "OM" or "Owners Manual" do not have schematics.
+
+
+

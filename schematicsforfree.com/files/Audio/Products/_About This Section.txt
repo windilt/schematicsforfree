@@ -1,0 +1,15 @@
+This section is about audio products. Factory made products with brans names. For Vintage Products, mainly with vacuum tubes or valves, also look in the Vintage Electronics section.  
+
+Automotive = Audio products for automotive use.
+
+Consumer: This is audio products generally used in the home for entertainment purposes. 
+
+Musical: This section is for Performance Electronics: This section is for electronic products used by musicians to produce the music we all love. Up to the point where the signal reaches the microphone or the main PA system. It does include musical instrument amplifiers. This section pertains to both live performance and to studio wrok.
+
+Professional Audio - This is for Products that take the signals from the musicians and does the processing, amplification and reproduction of those signals in a public performance or studio environment.Basicaly products used by people who make their living in audio.
+
+Public Address: Audio products used for public address (PA) systems including for schools and other public places
+
+Note that wHile every attempt is made to obtain manuals with schematics, files that say "OM" or "Owners Manual" do not have schematics.
+
+

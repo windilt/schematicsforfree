@@ -1,0 +1,7 @@
+MHTML File format is where all the files from a web page are in one file
+
+XPS File format is Microsofts version of Acrobat or PDF
+
+The reader for these is Microsoft Internet Explorer
+
+
